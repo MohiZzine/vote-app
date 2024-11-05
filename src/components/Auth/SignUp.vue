@@ -43,6 +43,8 @@
               Log In
             </button>
           </div>
+          <p>NOTE: working email: mohi@um6p.ma</p>
+          <p>NOTE: working password: mohimohi</p>
         </div>
       </form>
     </div>

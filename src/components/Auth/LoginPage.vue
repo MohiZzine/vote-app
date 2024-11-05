@@ -37,6 +37,8 @@
           <button @click="goToResetPassword" type="button" class="w-full px-4 py-2 text-[#FF4500] hover:underline text-sm">
             Forgot Password?
           </button>
+          <p>NOTE: working email: mohi@um6p.ma</p>
+          <p>NOTE: working password: mohimohi</p>
         </div>
       </form>
     </div>
