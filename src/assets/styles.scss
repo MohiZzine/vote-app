@@ -1,0 +1,17 @@
+/* src/assets/styles.scss */
+$primary-color: #007bff;
+$secondary-color: #6c757d;
+
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+.navbar, .footer {
+  background-color: $primary-color;
+  color: white;
+}
+
+.card {
+  margin-bottom: 1.5rem;
+}
